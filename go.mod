@@ -1,3 +1,3 @@
-module github.com/chnutzen/testgolib v1.0.0
+module github.com/chnutzen/testgolib
 
 go 1.18
